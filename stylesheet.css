@@ -20,16 +20,8 @@ body {
  border-left: 1px solid black;
  border-right: 1px solid black;
 }
-#select {
- font-family: Verdana, Arial;
- font-size: 14px;
- text-align: left;
- border-width: 1px;
- border-color: black;
- border-style: solid;
- border-collapse: collapse;
- background: #CCD3FF;
- width: 420px;
+#bron{
+ font-size: 15px;
 }
 .HEAD {
  width: 500px;

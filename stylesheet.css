@@ -31,95 +31,24 @@ body {
  background: #CCD3FF;
  width: 420px;
 }
-.TMB {
- width: 250px;
+.HEAD {
+ width: 500px;
  border-width: 1px;
  border-color: black;
  border-style: solid;
+ float: left;
 }
-.TMBDLC {
- width: 250px;
+.SMALL {
+ width: 300px;
  border-width: 1px;
  border-color: black;
  border-style: solid;
-}
-img.PIC {
- height: 200px;
-}
-img.AMB {
- height: 180px;
-}
-td.PIC {
- height: 200px;
- border-width: 1px;
- border-color: black;
- border-style: solid;
- border-collpase: collpase;
- text-align: center;
-}
-td.AMB {
- height: 180px;
- border-width: 1px;
- border-color: black;
- border-style: solid;
- border-collpase: collpase;
- text-align: center;
-}
-td.NAME {
- border-width: 1px;
- border-color: black;
- border-style: solid;
- text-align: center;
- background: #CCD3FF;
-}
-td.KD {
- font-size: 12px;
- border-width: 1px;
- border-color: black;
- border-style: solid;
- text-align: center;
- background: #CCD3FF;
-}
-td.DES {
- font-size: 12px;
- border-width: 1px;
- border-color: black;
- border-style: solid;
- text-align: center;
- background: #CCD3FF;
-}
-ul.navbar {
- font-family: Verdana, Arial;
- list-style-type: none;
- padding: 0;
- margin-left: 2%;
- position: absolute;
- top: 2em;
- left: 1em;
- width: 10em 
-}
-ul.navbar li {
- background: #CCD3FF;
- margin: 0.5em 0;
- padding: 0.3em;
- border-left: 1em solid black; 
- border-with: 1px;
- border-color: black;
- border-style: solid;
-}
-ul.navbar a {
- text-decoration: none; 
 }
 a:link {
  color: black; 
 }
 a:visited {
  color: black; 
-}
-ul.navbar li a:hover {
- color: #7F92FF;
- display: block; 
-}
 address {
  margin-top: 1em;
  padding-top: 1em;
